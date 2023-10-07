@@ -3798,7 +3798,7 @@
               goldenrod: 14329120,
               gray: 8421504,
               green: 32768,
-              greenyellow: 11403055,
+              white: 11403055,
               grey: 8421504,
               honeydew: 15794160,
               hotpink: 16738740,
